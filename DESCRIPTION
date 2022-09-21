@@ -1,0 +1,21 @@
+Package: zpalettes
+Version: 0.0.0.9999
+Title: Zealot Palettes
+Authors@R: c(
+             person(given = "Peter",      family = "DeWitt",  email = "peter.dewitt@cuanschutz.edu",      role = c("cre", "aut"), comment = c(ORCID = "0000-0002-6391-0795")),
+             person(given = "Alexandria", family = "Jensen",  email = "alexandria.jensen@cuanschutz.edu", role = c("ctb"),        comment = c(ORCID = "0000-0001-6337-9079"))
+             )
+Description: Collections of color palettes from professional sport clubs,
+  Universities, Colleges, movies, and others sources of fandom.
+Depends:
+  R (>= 3.5.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+URL: https://github.com/dewittpe/zpalettes
+Language: en-us
+Suggests:
+  jsonlite,
+  knitr,
+  rmarkdown
+RoxygenNote: 7.2.1
+VignetteBuilder: knitr

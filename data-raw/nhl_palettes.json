@@ -1,0 +1,69 @@
+[
+  {
+    "name" : "Anaheim Ducks",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"orange" : "#F47A38", "metallic gold" : "#B9975B", "silver" : "#C1C6C8", "black" : "#000000"}],
+    "active" : 1,
+    "introduced" : 2006,
+    "retired" : null,
+    "source" : "https://teamcolorcodes.com/anaheim-ducks-color-codes/",
+    "source_date" : "2022-09-20"
+  },
+  {
+    "name" : "Anaheim Mighty Ducks",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"green" : "#00685E", "purple" : "#532A44", "yellow" : "#FCC72C", "black" : "#241E24"}],
+    "active" : 0,
+    "introduced" : 1993,
+    "retired" : 2006,
+    "source" : "https://teamcolorcodes.com/anaheim-ducks-color-codes/",
+    "source_date" : "2022-09-20"
+  },
+  {
+    "name" : "Arizona Coyotes",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"brick red" : "#8C2633", "desert sand" : "#E2D6B5", "black" : "#111111"}],
+    "active" : 1,
+    "introduced" : 2014,
+    "retired" : null,
+    "source" : "https://teamcolorcodes.com/arizona-coyotes-color-codes/",
+    "source_date" : "2022-09-20"
+  },
+  {
+    "name" : "Phoenix Coyotes",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"brick red" : "#8C2633", "green" : "#154734", "desert sand" : "#DDCBA4", "brown" : "#A9431E", "purple" : "#5F259F"}],
+    "active" : 0,
+    "introduced" : 2014,
+    "retired" : 1996,
+    "source" : "https://teamcolorcodes.com/arizona-coyotes-color-codes/",
+    "source_date" : "2022-09-20"
+  },
+  {
+    "name" : "Colorado Avalanche",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"burgundy" : "#6F263D", "blue" : "#236192", "silver" : "#A2AAAD", "black" : "#000000"}],
+    "palatte_cms" : [{"burgundy" : "PMS 202", "blue" : "PMAS 647", "silver" : "PMS 877", "gray" : "PMS 428", "black" : "PMS Process Black"}],
+    "active" : 1,
+    "introduced" : 1999,
+    "retired" : null,
+    "source" : "https://www.nhl.com/avalanche/fans/faqs",
+    "source_date" : "2022-08-08"
+  },
+  {
+    "name" : "Colorado Avalanche",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"burgundy" : "#8c2633", "blue" : "#236192", "silver" : "#A2AAAD", "black" : "#000000"}],
+    "active" : 0,
+    "introduced" : 1995,
+    "retired" : 1999
+  },
+  {
+    "name" : "Quebec Nordiques",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"red" : "#DA191C", "blue" : "#005EB8", "white" : "#FFFFFF"}],
+    "active" : 0,
+    "introduced" : 1972,
+    "retired" : 1995
+  }
+]

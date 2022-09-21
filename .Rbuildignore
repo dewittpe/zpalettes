@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^Makefile$
+^.*\.Rout$
+^.*\.tar\.gz$
+^.github/*
+^.*\.png$
+^covr-report\.html$
+^lib/*
+^cran-comments\.md$
+^CRAN-SUBMISSION$
