@@ -40,6 +40,16 @@
     "source_date" : "2022-09-20"
   },
   {
+    "name" : "Boston Bruins",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"gold" : "#FFB81C", "black" : "#000000"}],
+    "active" : 1,
+    "introduced" : null,
+    "retired" : null,
+    "source" : "https://teamcolorcodes.com/boston-bruins-color-codes/",
+    "source_date" : "2022-09-20"
+  },
+  {
     "name" : "Colorado Avalanche",
     "league" : "National Hockey League",
     "palette_hex" : [{"burgundy" : "#6F263D", "blue" : "#236192", "silver" : "#A2AAAD", "black" : "#000000"}],
@@ -127,5 +137,18 @@
     "active" : 0,
     "introduced" : 1972,
     "retired" : 1995
+  },
+  {
+    "name" : "Atlanta Thrashers",
+    "league" : "National Hockey League",
+    "palette_hex" : [{ "atlanta midnight blue" : "#041E42", "thrasher ice blue" : "#5C88DA", "georgia bronze" : "#862633", "capitol copper" : "#B86125", "peachtree gold" : "#FFA300" }],
+    "active" : 0,
+    "introduced" : null,
+    "retired" : null,
+    "source" : "https://teamcolorcodes.com/atlanta-thrashers-color-codes/",
+    "source_date" : "2022-09-22"
   }
 ]
+
+
+
