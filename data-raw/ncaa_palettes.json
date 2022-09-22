@@ -1,0 +1,49 @@
+[
+  {
+    "name" : "Colorado School of Mines",
+    "palette_hex" : [{"Dark Blue" : "#21314D", "Light Blue" : "#92A2BD", "Accent" : "#D2492A", "Blue" : "#263F6A", "Pale Blue" : "#CED5DD", "Cool Gray" : "#B2B4B3", "Metallic" : "#8B8D8E"}],
+    "source" : "https://www.mines.edu/webcentral/colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Colorado State University",
+    "palette_hex" : [{"CSU Green" : "#1E4D28", "CSU Gold" : "#C8C372", "CSU White" : "#FFFFFF"}],
+    "secondary_palette_hex" : [{"80% Black" : "#59595B", "Aggie Orange" : "#D9782D"}],
+    "tertiary_palette_hex" : [{"Alfalfa" : "#C9D845", "Canyon" : "#CC5430", "Dark Slate" : "#105456", "Resevoir" : "#12A4B6", "Sunshine" : "#ECC530"}],
+    "source" : "https://brand.colostate.edu/color/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "University of Colorado Anschutz Medical Campus",
+    "palette_hex" : [{"CU Gold" : "#CFB87C", "Black" : "#000000", "CU Dark Gray" : "#565A5C", "CU Light Gray" : "#A2A4A3", "CU White" : "#FFFFFF"}],
+    "source" : "https://www.cuanschutz.edu/offices/communications/brand/visual-identity/colors",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "University of Colorado Boulder",
+    "palette_hex" : [{"CU Gold" : "#CFB87C", "Black" : "#000000", "CU Dark Gray" : "#565A5C", "CU Light Gray" : "#A2A4A3"}],
+    "source" : "https://www.colorado.edu/brand/how-use/color",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "University of Colorado Colorado Springs",
+    "palette_hex" : [{"CU Gold" : "#CFB87C", "Black" : "#000000", "Dark Gray" : "#565A5C", "Light Gray" : "#A2A4A3", "White" : "#FFFFFF"}],
+    "source" : "https://brand.uccs.edu/visual-guidelines/color",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "University of Colorado Denver",
+    "palette_hex" : [{"CU Gold" : "#CFB87C", "Black" : "#000000"}],
+    "secondary_palette_hex" : [{"Gold -1" : "#7B6F4B", "Gold +1" : "#D6CCA6", "White" : "#FFFFFF", "Black +1" : "#595955", "Black +2" : "#7C7E7F", "Black +3" : "9EA1A2"}],
+    "source" : "https://www.ucdenver.edu/offices/ucomm/brand-old/visual-identity/color",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "University of Northern Colorado",
+    "palette_hex" : [{"UNC Bears Blue" : "#013c65", "UNC Bears Gold" : "#F6B000", "Blue Gray" : "#60697A", "Light Gray" : "#EBEBEB", "Honeycomb" : "#c7ac67", "Butter" : "#F5E3B1"}],
+    "secondary_palette_hex" : [{"Ash" : "#666", "Antique Gold" : "#837543", "Dark Grey" : "#333", "Smoke" : "#999"}],
+    "tertiary_palette_hex" : [{"UNC Mountain Blue" : "#4F748B", "UNC Ocean Blue" : "#4F858E", "UNC Smoky Blue" : "#94B7BA", "UNC Sky Blue" : "#AFC7D4", "UNC Olive Green" : "#7B863A", "UNC Sap Green" : "#9AA439", "UNC Walnut" : "#643615", "UNC Boysenberry" : "#843553", "UNC Aqua" : "#59B7B1", "UNC Persimmon" : "#C34628", "UNC Pumpkin" : "#E97822", "UNC Slate Gray" : "#8A8A8A", "UNC Butter Yellow" : "#F2D383", "UNC Sand" : "#BE995C"}],
+    "source" : "https://www.unco.edu/marketing-communications/pdf/UNC-Style-Guide-2018.pdf",
+    "source_date" : "2022-09-22"
+  }
+]

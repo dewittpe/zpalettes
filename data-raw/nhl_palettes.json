@@ -59,6 +59,36 @@
     "retired" : 1999
   },
   {
+    "name" : "Minnesota North Stars",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"gold" : "#C69214", "green" : "#007A33", "black" : "#000000"}],
+    "active" : 0,
+    "introduced" : 1991,
+    "retired" : 1993,
+    "source" : "https://teamcolorcodes.com/minnesota-north-star-colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Minnesota North Stars",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"yellow" : "#FFD100", "green" : "#009639", "black" : "#000000"}],
+    "active" : 0,
+    "introduced" : 1985,
+    "retired" : 1991,
+    "source" : "https://teamcolorcodes.com/minnesota-north-star-colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Minnesota North Stars",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"yellow" : "#FFD100", "green" : "#009639"}],
+    "active" : 0,
+    "introduced" : 1967,
+    "retired" : 1985,
+    "source" : "https://teamcolorcodes.com/minnesota-north-star-colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
     "name" : "Quebec Nordiques",
     "league" : "National Hockey League",
     "palette_hex" : [{"red" : "#DA191C", "blue" : "#005EB8", "white" : "#FFFFFF"}],
