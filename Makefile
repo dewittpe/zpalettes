@@ -19,7 +19,7 @@ VIGNETTES   = $(wildcard $(PKG_ROOT)/vignettes/*.Rmd)
 all: $(PKG_NAME)_$(PKG_VERSION).tar.gz
 
 $(PKG_NAME)_$(PKG_VERSION).tar.gz: .install_dev_deps.Rout .document.Rout $(VIGNETTES) $(TESTS)
-	R CMD build --md5 $(build-options) $(PKG_ROOT)
+	R CMD build --md5 $(PKG_ROOT)
 
 .install_dev_deps.Rout : $(PKG_ROOT)/DESCRIPTION
 	Rscript --vanilla --quiet -e "options(repo = c('$(CRAN)'))" \
@@ -35,12 +35,6 @@ $(PKG_NAME)_$(PKG_VERSION).tar.gz: .install_dev_deps.Rout .document.Rout $(VIGNE
 
 $(DATATARGETS) : data-raw/create_sysdata.R $(DATASOURCES)
 	Rscript --vanilla --quiet $<
-	#R --vanilla \
-		#-e 'files <- list.files(normalizePath("./data-raw"), pattern = "*\\.json", full.names = TRUE)'\
-		#-e 'names(files) <- sub("\\.json", "", basename(files))'\
-		#-e "if (!require(jsonlite)) {install.packages('jsonlite', repo = c('$(CRAN)'))}" \
-		#-e '.zpalettes <- lapply(files, jsonlite::fromJSON)'\
-		#-e 'save(.zpalettes, file = "./R/sysdata.rda")'
 
 check: $(PKG_NAME)_$(PKG_VERSION).tar.gz
 	R CMD check $(PKG_NAME)_$(PKG_VERSION).tar.gz
@@ -49,7 +43,7 @@ check-as-cran: $(PKG_NAME)_$(PKG_VERSION).tar.gz
 	R CMD check --as-cran $(PKG_NAME)_$(PKG_VERSION).tar.gz
 
 covr-report.html : $(PKG_NAME)_$(PKG_VERSION).tar.gz
-	R --vanilla --quiet -e 'x <- covr::package_coverage(type = "test")'\
+	R --vanilla --quiet -e 'x <- covr::package_coverage(type = "examples")'\
 		-e 'print(x)'\
 		-e 'covr::report(x, file = "$@")'
 

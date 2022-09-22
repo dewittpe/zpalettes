@@ -43,7 +43,7 @@
     "name" : "Colorado Avalanche",
     "league" : "National Hockey League",
     "palette_hex" : [{"burgundy" : "#6F263D", "blue" : "#236192", "silver" : "#A2AAAD", "black" : "#000000"}],
-    "palatte_cms" : [{"burgundy" : "PMS 202", "blue" : "PMAS 647", "silver" : "PMS 877", "gray" : "PMS 428", "black" : "PMS Process Black"}],
+    "palatte_cms" : [{"burgundy" : "PMS 202", "blue" : "PMS 647", "silver" : "PMS 877", "gray" : "PMS 428", "black" : "PMS Process Black"}],
     "active" : 1,
     "introduced" : 1999,
     "retired" : null,
@@ -56,7 +56,39 @@
     "palette_hex" : [{"burgundy" : "#8c2633", "blue" : "#236192", "silver" : "#A2AAAD", "black" : "#000000"}],
     "active" : 0,
     "introduced" : 1995,
-    "retired" : 1999
+    "retired" : 1999,
+    "source" : "https://teamcolorcodes.com/colorado-avalanche-color-codes/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Hartford Whalers",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"blue" : "#00205B", "green" : "#046A38", "gray" : "#A2AAAAD"}],
+    "active" : 0,
+    "introduced" : 1992,
+    "retired" : 1997,
+    "source" : "https://teamcolorcodes.com/hartford-whalers-colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Hartford Whalers",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"blue" : "#2A3489", "green" : "#0E7B3E"}],
+    "active" : 0,
+    "introduced" : 1979,
+    "retired" : 1992,
+    "source" : "https://teamcolorcodes.com/hartford-whalers-colors/",
+    "source_date" : "2022-09-22"
+  },
+  {
+    "name" : "Hartford Whalers",
+    "league" : "National Hockey League",
+    "palette_hex" : [{"black" : "#2D2926", "green" : "#006D2C", "white" : "#FFFFFF"}],
+    "active" : 0,
+    "introduced" : 1972,
+    "retired" : 1979,
+    "source" : "https://teamcolorcodes.com/hartford-whalers-colors/",
+    "source_date" : "2022-09-22"
   },
   {
     "name" : "Minnesota North Stars",
